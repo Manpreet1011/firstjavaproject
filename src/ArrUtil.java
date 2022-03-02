@@ -45,7 +45,10 @@ public class ArrUtil {
 }
 
 public static int integerAt(int arr1[],int x){
+        if((x<arr1.length)&&(x>=0))
         return arr1[x];
+        else
+            return -1;
 
 
 }
