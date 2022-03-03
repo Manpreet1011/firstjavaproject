@@ -26,7 +26,7 @@ public class ArrUtil {
         n= read.nextInt();
         index = containsInt(arr,n);
         if(n==-1)
-            System.out.println("Cannot find element in an arrey ");
+            System.out.println("Cannot find element in an array ");
         else
             System.out.println("Array contains "+n + " at "+" location "+ index);
 
