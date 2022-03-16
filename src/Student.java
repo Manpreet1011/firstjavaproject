@@ -20,6 +20,9 @@
         {
             return(name);
         }
+        public String greet(){
+            return ("Hello  " + this.name);
+        }
 
         @Override
         public String toString() {

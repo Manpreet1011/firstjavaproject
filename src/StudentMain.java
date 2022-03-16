@@ -7,5 +7,6 @@ public class StudentMain {
         s1.setAddress("Brampton");
         System.out.println(s1);
         System.out.println("Name= "+ s.getName());
+        System.out.println(s1.greet());
     }
 }
