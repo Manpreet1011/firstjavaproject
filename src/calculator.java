@@ -1,6 +1,6 @@
 //import javax.lang.model.element.ModuleElement;
 import java.util.Scanner;
-
+//manpreet
 public class calculator {
     public static void main(String[] args) {
         int number1,number2,result;
