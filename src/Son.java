@@ -16,17 +16,17 @@ public class Son extends Father {
                 ", school='" + school + '\'' +
                 '}';
     }
-    public void display()
-    {
+
+    public void display() {
         System.out.println("Name is :" + name);
-        System.out.println("Suname is : "+ surName);
+        System.out.println("Suname is : " + surName);
         System.out.println("Address is :" + address);
-        System.out.println("Age is : "+ age);
+        System.out.println("Age is : " + age);
         System.out.println("School name is : " + school);
     }
+
     @Override
-    public void whatToEat()
-    {
+    public void whatToEat() {
         System.out.println("Son eats Burger");
     }
 }

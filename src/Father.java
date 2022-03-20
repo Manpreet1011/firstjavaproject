@@ -10,8 +10,8 @@ public class Father {
         this.address = address;
         this.age = age;
     }
-    public void whatToEat()
-    {
+
+    public void whatToEat() {
         System.out.println("Fatehr eats Pizza");
     }
 
@@ -24,4 +24,5 @@ public class Father {
                 ", age=" + age +
                 '}';
     }
+    // public void display(){}
 }
