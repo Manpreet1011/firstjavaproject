@@ -5,6 +5,8 @@ public class StaticMain {
         StaticPractice s = new StaticPractice();
         StaticPractice.display();
         s.displayCall();
+        StaticPractice.display1();
+
     }
 
 
