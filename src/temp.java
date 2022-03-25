@@ -1,7 +1,7 @@
 public class temp {
     public static void main(String[] args) {
 
-
+        System.out.println("Manpreet");
         String s1 = "madam";
         char[] chars1 = s1.toCharArray();
         char s2[] = new char[s1.length()];

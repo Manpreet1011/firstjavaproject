@@ -1,11 +1,12 @@
 //import javax.lang.model.element.ModuleElement;
 import java.util.Scanner;
-
+//manpreet
 public class calculator {
     public static void main(String[] args) {
         int number1,number2,result;
         int option;
         Scanner scan = new Scanner(System.in);
+        System.out.println("Just update for git");
         while(true) {
             System.out.println("Please select your option");
             System.out.println("1. For Addition");
